@@ -2,23 +2,33 @@
    "wallpapers": [
       {
          "author": "Ome Kurnia",
-         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/Wallpaper%20Corn%20Black.png",
-         "name": "Corn Black"
+         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/batman.png",
+         "thumburl" : "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/batman.png",
+         "name": "Batman"
       },
       {
          "author": "Ome Kurnia",
-         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/Wallpaper%20Cyan.png",
-         "name": "Cyan"
+         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/birds.png",
+         "thumburl" : "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/birds.png",
+         "name": "Birds"
       },
       {
          "author": "Ome Kurnia",
-         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/Wallpaper%20Noon%20Field.png",
-         "name": "Noon Field"
+         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/diamonds.png",
+         "thumburl" : "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/diamonds.png",
+         "name": "Diamond"
       },
       {
          "author": "Ome Kurnia",
-         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/Wallpaper%20Social%20Pink.png",
-         "name": "Social Pink"
+         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/guy%20fawkes.png",
+         "thumburl" : "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/guy%20fawkes.png",
+         "name": "Guy Fawkes"
+      },
+      {
+         "author": "Ome Kurnia",
+         "url": "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/spiderman.png",
+         "thumburl" : "https://github.com/omekurnia/Dark-Matte-Icon-Pack/blob/master/wallpapers/spiderman.png",
+         "name": "Spiderman"
       }
    ]
 }
